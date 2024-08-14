@@ -24,7 +24,7 @@ public class Test {
 			}
 		
 		}
-		System.out.println("Output of Project is as below");
+		System.out.println("Output of Project is as below:");
 		System.out.println(hashmap);
 	}
 
